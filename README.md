@@ -1,6 +1,4 @@
-# First_Project_C-
-OOP
-# include<iostream>
+#include<iostream>
 using namespaces std;
 int main()
 {
